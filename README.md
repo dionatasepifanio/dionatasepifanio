@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 - 🧑‍💻 I’m Graphic Disigner and Beginner Programmer
-- 🌱 I’m currently learning: JS, CSS and CSS.
+- 🌱 I’m currently learning: JS, CSS, HTML and Python.
 
 <br><br>
 
