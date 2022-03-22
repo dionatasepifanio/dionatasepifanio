@@ -1,5 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Dionatas Epifanio</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dionatasepifanio&color=yellow" alt="Profile views" /> </p>
 
 <!--
 **dionatasepifanio/dionatasepifanio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
