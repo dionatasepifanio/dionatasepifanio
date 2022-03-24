@@ -36,4 +36,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/dionatasepifanio" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-dionatasepifanio-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+  <a href="https://www.behance.net/dionataepifanio" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-dionatasepifanio-05122A?style=flat&logo=behance" alt="behance"/>
+</a>
 </p>
